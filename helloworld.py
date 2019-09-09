@@ -4,5 +4,7 @@ x = random.randint(1,100)
 y = random.randint(1,100)
 sum = x + y
 average = (sum / 2)
+print(x)
+print(y)
 print("sum = ", sum)
 print("average = ", average)
